@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <section className="cards">
-        <h1 className="cards__header">Самые знаменитые коты в мире</h1>
+        <h1 className="cards__header">Coffee Shop</h1>
         <div className="cards__list">
           <CardList/>
         </div>
