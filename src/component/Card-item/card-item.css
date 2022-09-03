@@ -1,5 +1,5 @@
 .cards__item {
-    margin: 0 2rem 3rem;
+    margin: 0 auto 3rem;
     width: 300px;
     transition: all .5s;
 }
